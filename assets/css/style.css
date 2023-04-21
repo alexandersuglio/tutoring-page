@@ -1177,3 +1177,16 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+
+.ed_header {
+  display: flex;
+  align-items: center;
+}
+
+.ed_header img {
+  margin-right: 20px; /* Adjust the margin as needed */
+}
+
+
