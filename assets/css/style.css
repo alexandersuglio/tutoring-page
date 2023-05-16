@@ -439,6 +439,32 @@ margin-bottom: 10vh;
   margin-bottom: 10vh;
 }
 
+
+@media (min-width: 1450px) {
+  
+/*  body {
+    background-color: lightblue;
+  }*/
+
+  #about{
+  margin-bottom: 40vh;
+  }
+
+/*  #expCont, #skillsCont, #awardCont, #contactCont
+*/ 
+  #educationCont, #mathCont, #csCont, #contactCont
+  {
+    margin-top: 5vh;
+    margin-bottom: 30vh;
+  }
+
+}
+
+
+
+
+
+
 /*--------------------------------------------------------------
 # skills
 --------------------------------------------------------------*/
